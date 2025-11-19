@@ -7,8 +7,8 @@
  * using the M5Unified library, plus touch screen detection.
  *
  * Hardware:
- * - KEY1 (Button A) - Left button
- * - KEY2 (Button B) - Right button
+ * - KEY1 (Button A) - Top user button
+ * - KEY2 (Button B) - Side ser button
  * - Touch screen - Capacitive touch
  * - All buttons are on I2C expander (NOT direct GPIO!)
  *
