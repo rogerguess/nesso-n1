@@ -1,6 +1,8 @@
 /*
- * Nesso N1 Button and Touch Test - M5Unified (CORRECT METHOD)
+ * Nesso N1 Button and Touch Test - M5Unified 
  *
+ * https://github.com/rogerguess/nesso-n1
+ * 
  * This sketch properly reads buttons via the I2C GPIO expander
  * using the M5Unified library, plus touch screen detection.
  *
